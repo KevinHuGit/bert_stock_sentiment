@@ -1,0 +1,45 @@
+{
+  "price": 6.431687525880091,
+  "baseline_price": 6.7489076188865464,
+  "price_difference": -0.3172200930064557,
+  "price_difference_percent": -4.7003176057519,
+  "base_volatility": 0.3,
+  "adjusted_volatility": 0.2891447057478428,
+  "sentiment_score": 0.18092157086928687,
+  "sentiment_data": {
+    "marketaux_sentiment": 0.23648333333333335,
+    "bert_sentiment": 0.12535980840524039,
+    "combined_sentiment": 0.18092157086928687,
+    "news_count": 3,
+    "details": [
+      {
+        "title": "ASX Market Open: Oz shares to rally in Week 10 \u2013 but it may not last long | March 3, 2025",
+        "published_at": "2025-03-02T21:37:55.000000Z",
+        "source": "themarketherald.com.au",
+        "marketaux_sentiment": 0.7184,
+        "bert_sentiment": 0.3105384111404419
+      },
+      {
+        "title": "Prediction: This Magnificent Artificial Intelligence (AI) Chip Stock Will Be Worth $2 Trillion in 5 Years",
+        "published_at": "2025-03-02T20:38:00.000000Z",
+        "source": "finance.yahoo.com",
+        "marketaux_sentiment": 0.1563,
+        "bert_sentiment": 0.033824726939201355
+      },
+      {
+        "title": "How Are 9 Out of the 11 Stock Market Sectors Outperforming the S&P 500 in 2025?",
+        "published_at": "2025-03-02T20:08:00.000000Z",
+        "source": "finance.yahoo.com",
+        "marketaux_sentiment": -0.16525,
+        "bert_sentiment": 0.03171628713607788
+      }
+    ]
+  },
+  "option_params": {
+    "S": 150.0,
+    "K": 155.0,
+    "T": 0.25,
+    "r": 0.05,
+    "option_type": "call"
+  }
+}
